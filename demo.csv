@@ -1,0 +1,14 @@
+﻿product,amount,uid,paid,date,returned,reason,province
+A,1,111,5.247826,2020/1/1,N,,abc
+A,3,222,15.743478,2020/1/2,n,,de
+B,2,333,8.247096,2020/1/2,Y,bad quality,abd
+B,5,444,20.61774,2020/1/5,no,,abc
+B,2,555,8.247096,2020/1/7,yes,no longer needed,de
+C,4,666,33.6,2020/1/7,,,fde
+C,3,777,25.2,2020/1/6,yes,bad quality,ser
+D,3,888,9.4247778,2020/1/4,,,asf
+D,4,999,12.5663704,2020/1/4,Y,no longer needed,cds
+D,2,123,6.2831852,2020/1/6,,,wer
+E,1,321,66.6,2020/1/6,N,,asf
+F,1,456,12.345,2020/1/4,,,de
+G,1,654,98.7654,2020/1/6,Y,don’t like it,ser
